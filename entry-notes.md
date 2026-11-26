@@ -3,7 +3,7 @@
 - **Bounty:** best-national-statistics-site-20261126-0539 — "Make the best national statistics site" ($50, deadline 12:39 WIB 29 Nov 2026)
 - **Entry title:** NusaStat — Indonesia in numbers
 - **Repo:** https://github.com/shincanx/national-statistics-site (recreated 2026-11-26T05:44:21Z, after the bounty opened 05:39:00Z; old pre-open repo deleted first)
-- **Commit:** (see push log — head commit printed by gh-push.py)
+- **Commit:** `2f9e574ae0353624d163dd37523c86271a90cbd4` (head, branch main; all 17 files verified byte-identical after push)
 
 ## What it is
 
