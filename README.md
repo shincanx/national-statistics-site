@@ -1,8 +1,8 @@
 # NusaStat — Indonesia in numbers
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-teal.svg)](LICENSE)
-[![Node.js 22](https://img.shields.io/badge/Node-22-339933.svg)](https://nodejs.org)
-[![Status: working](https://img.shields.io/badge/status-working-brightgreen.svg)](https://github.com/shincanx/national-statistics-site)
+[![make.fun · best-national-statistics-site-20261126-0539](https://make.fun/badge/best-national-statistics-site-20261126-0539.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![rank](https://make.fun/badge/best-national-statistics-site-20261126-0539/shincanx/national-statistics-site/rank.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
+[![reward](https://make.fun/badge/best-national-statistics-site-20261126-0539/shincanx/national-statistics-site/reward.svg)](https://make.fun/bounty/best-national-statistics-site-20261126-0539?utm_source=github&utm_medium=readme&utm_campaign=best-national-statistics-site-20261126-0539)
 
 An independent national statistics portal for Indonesia — population, economy,
 prices, labour, health and regions — as a static site that runs in a browser
